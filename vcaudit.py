@@ -1,8 +1,8 @@
 # Volatility
 # Copyright (c) 2008-2014 Volatility Foundation
 # Copyright (c) 2013,2014 Michael Ligh (michael.ligh@mnin.org)
-# Copyleft (0) 2020, Patrick Eisoldt (patrick.eisoldt@polizei.bwl.de)
-#
+# Copyleft (0) 2020, Patrick Eisoldt
+
 # This file is part of Volatility.
 #
 # Volatility is free software; you can redistribute it and/or modify
